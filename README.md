@@ -16,15 +16,14 @@ This project involves executing an end-to-end data engineering project focused o
 ### Cost-Effectiveness: Utilizing AWS managed services helps in reducing the operational overhead and costs.
 ### Real-Time Processing: The architecture is designed to handle real-time data, providing up-to-date insights.
 
-
 ## My Learning Outcomes:
-1. Learnt how to configure ## Apache Kafka for capturing real-time stock market data streams.
-2. Understood ## Kafka producers and consumers and how to set them up for efficient data ingestion.
-3. Explored how to use ## AWS S3 for scalable and durable data storage. Gain knowledge on best practices for organizing and managing large datasets in S3.
-4. Mastered the setup and usage of AWS Glue for data cataloging. Performing ETL (Extract, Transform, Load) processes using Glue to clean and preprocess data.
-5. Learnt how to use AWS Athena to perform SQL queries on data stored in S3. Understood the benefits of serverless querying and how to optimize query performance.
-6. Developed skills in real-time data processing and monitoring.
-7. Gained hands-on experience in designing and implementing a complete data pipeline.
+1. Learnt how to configure **Apache Kafka** for capturing real-time stock market data streams.
+2. Understood **Kafka producers and consumers** and how to set them up for efficient data ingestion.
+3. Explored how to use **AWS S3** for scalable and durable data storage. Gain knowledge on best practices for organizing and managing large datasets in S3.
+4. Mastered the setup and usage of **AWS Glue** for data cataloging. Performing **ETL** (Extract, Transform, Load) processes using Glue to clean and preprocess data.
+5. Learnt how to use AWS Athena to perform **SQL queries** on data stored in S3. Understood the benefits of serverless querying and how to optimize query performance.
+6. Developed skills in **real-time data processing and monitoring**.
+7. Gained hands-on experience in designing and **implementing a complete data pipeline**.
 
 ## Technologies Used
 ### Programming Language: Python
@@ -32,6 +31,6 @@ This project involves executing an end-to-end data engineering project focused o
 #### S3 (Simple Storage Service)
 #### EC2
 #### Athena
-### Glue Crawler
-### Glue Catalog
-### Apache Kafka
+#### Glue Crawler
+#### Glue Catalog
+#### Apache Kafka
